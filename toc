@@ -1,2 +1,2 @@
 #!/bin/bash
-../toc --no-backup cheme_peeps.md
+../toc --no-backup --max-depth 2 cheme_peeps.md
